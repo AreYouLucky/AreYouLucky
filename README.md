@@ -20,7 +20,7 @@
   <img height="40" align="center" alt="AreYouLucky-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="AreYouLucky-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" height="180em" alt="AreYouLucky-yoda" src="https://giphy.com/embed/QAsHga1AB6dIGUsui6">
+  <img align="right" height="180em" alt="AreYouLucky-yoda" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejdrcjZvZTY0M3JwMzYzaXltdGZ3cjU2amVrZXllMzFiNTQwbjhmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QAsHga1AB6dIGUsui6/giphy.gif">
 </div>
   
 </br>
