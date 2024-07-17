@@ -6,7 +6,7 @@
 </a>
 
 <a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=AreYouLucky&hide=html,scss,css&langs_count=8&layout=compact&theme=gitdimmed&no-bg=true&title=Followers,Stars,Repositories,MultipleLang,Commits&card_width=150" />
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=AreYouLucky&hide=html,scss,css&langs_count=8&layout=compact&theme=gitdimmed&no-bg=true&title=Followers,Stars,Repositories,MultipleLang,Commits&card_width=100" />
 </a>
 
 
