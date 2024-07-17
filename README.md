@@ -6,12 +6,12 @@
 </a>
 
 <a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=AreYouLucky&hide=html,scss,css&langs_count=8&layout=compact&theme=gitdimmed&no-bg=true&&title=Stars,Followers,Commits&card_width=50$col=-1" />
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=AreYouLucky&hide=html,scss,css&langs_count=8&layout=compact&theme=gitdimmed&no-bg=true&card_width=50$col=-1" />
 </a>
 
 
 <img align="left" height=202 src="https://github-readme-streak-stats.herokuapp.com/?user=AreYouLucky&theme=gitdimmed&no-bg=true"/>
-<img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=AreYouLucky&theme=gitdimmed&no-bg=true"/>
+<img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=AreYouLucky&theme=gitdimmed&no-bg=true&title=Stars,Followers,Commits,MultipleLang,Experience"/>
 
 ![Snake animation](https://github.com/AreYouLucky/AreYouLucky/blob/main/github-contribution-grid-snake.svg)
  
