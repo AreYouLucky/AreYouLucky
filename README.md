@@ -1,11 +1,20 @@
 ## Hello, what brings you here today?
 </br>
 
- <div>
-  <a href="https://github.com/AreYouLucky">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreYouLucky&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AreYouLucky&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-</div>
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=etiennewayne&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+</a>
+
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=etiennewayne&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
+</a>
+
+
+<img align="left" height=202 src="https://github-readme-streak-stats.herokuapp.com/?user=etiennewayne&theme=radical"/>
+<img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=etiennewayne&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
+
+![Snake animation](https://github.com/etiennewayne/etiennewayne/blob/main/github-contribution-grid-snake.svg)
+ 
  
  ## Skills
 <div style="display: inline_block"><br>
