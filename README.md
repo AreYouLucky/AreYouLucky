@@ -10,8 +10,8 @@
 </a>
 
 
-<img align="left" height=202 src="https://github-readme-streak-stats.herokuapp.com/?user=etiennewayne&theme=radical"/>
-<img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=etiennewayne&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
+<img align="left" height=202 src="https://github-readme-streak-stats.herokuapp.com/?user=AreYouLucky&theme=radical"/>
+<img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=AreYouLucky&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
 
 ![Snake animation](https://github.com/AreYouLucky/AreYouLucky/blob/main/github-contribution-grid-snake.svg)
  
