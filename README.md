@@ -12,9 +12,6 @@
 
 <img align="left" height=202 src="https://github-readme-streak-stats.herokuapp.com/?user=AreYouLucky&theme=gitdimmed&no-bg=true"/>
 <img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=AreYouLucky&theme=gitdimmed&no-bg=true&title=Stars,Followers,Commits,MultipleLang,Experience&card_width=150$col=-1"/>
-
-![Snake animation](https://github.com/AreYouLucky/AreYouLucky/blob/main/github-contribution-grid-snake.svg)
- 
  
  ## Skills
 <div style="display: inline_block"><br>
