@@ -1,9 +1,6 @@
 ## Hello, what brings you here today?
 </br>
 
-<a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=AreYouLucky&show_icons=true&theme=gitdimmed&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
-</a>
 
 <a href="#">
   <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=AreYouLucky&hide=html,scss,css&langs_count=8&layout=compact&theme=gitdimmed&no-bg=true&card_width=150$col=-1" />
