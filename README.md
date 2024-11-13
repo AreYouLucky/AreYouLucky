@@ -4,9 +4,6 @@
 </div>
 <img align="left" width="100%" src="https://github-profile-trophy.vercel.app/?username=AreYouLucky&theme=gitdimmed&no-bg=true&title=Stars,Followers,Commits,MultipleLang,Experience&card_width=150$col=-1"/>
 </br>
-<?/br>
-![Snake animation](https://github.com/AreYouLucky/AreYouLucky/blob/main/github-contribution-grid-snake.svg)
-
  ## Skill Set
 <div style="display: inline_block"><br>
  <img height="40" align="center" alt="AreYouLucky-Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
