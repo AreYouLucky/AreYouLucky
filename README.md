@@ -2,9 +2,9 @@
 <div style="display: inline_block">
  <img align="left" width="100%" style="margin-bottom: 20px;" src="https://drive.google.com/uc?export=download&id=1c4HrpvUPbrwKYJkj_Eapki7pzSwX6AWD"/>
 </div>
-
+##
 <img align="left" width="100%" src="https://github-profile-trophy.vercel.app/?username=AreYouLucky&theme=gitdimmed&no-bg=true&title=Stars,Followers,Commits,MultipleLang,Experience&card_width=150$col=-1"/>
- 
+ <img align="right" height="90em" alt="AreYouLucky-yoda" style="z-index:1999"   src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejdrcjZvZTY0M3JwMzYzaXltdGZ3cjU2amVrZXllMzFiNTQwbjhmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QAsHga1AB6dIGUsui6/giphy.gif">
 ![Snake animation](https://github.com/AreYouLucky/AreYouLucky/blob/main/github-contribution-grid-snake.svg)
 
  ## Skill Set
@@ -20,7 +20,6 @@
   <img height="40" align="center" alt="AreYouLucky-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="AreYouLucky-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="right" height="90em" alt="AreYouLucky-yoda" style="z-index:1999"   src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejdrcjZvZTY0M3JwMzYzaXltdGZ3cjU2amVrZXllMzFiNTQwbjhmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QAsHga1AB6dIGUsui6/giphy.gif">
 </div>
   
 </br>
