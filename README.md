@@ -1,6 +1,6 @@
 ## Hello, what brings you here today?
 
-<img align="left" width="100%" style="margin-bottom: 20px;" src="https://drive.google.com/uc?export=download&id=1BTQll96B5xUOOGfn4TvumT0xuefj3w97"/>
+<img align="left" width="100%" style="margin-bottom: 20px;" src="https://drive.google.com/uc?export=download&id=1c4HrpvUPbrwKYJkj_Eapki7pzSwX6AWD"/>
 <img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=AreYouLucky&theme=gitdimmed&no-bg=true&title=Stars,Followers,Commits,MultipleLang,Experience&card_width=150$col=-1"/>
  
 ![Snake animation](https://github.com/AreYouLucky/AreYouLucky/blob/main/github-contribution-grid-snake.svg)
