@@ -6,7 +6,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=AreYouLucky&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 </br>
 ## 💻 Tech Stack:
-<div> 
+
  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -33,7 +33,6 @@
  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
  ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-</div>
 
 
  <img align="right" height="90em" alt="AreYouLucky-yoda" style="z-index:1999"   src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejdrcjZvZTY0M3JwMzYzaXltdGZ3cjU2amVrZXllMzFiNTQwbjhmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QAsHga1AB6dIGUsui6/giphy.gif">
