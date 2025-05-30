@@ -2,13 +2,13 @@
 <div style="display: inline_block">
  <img align="left" width="100%" style="margin-bottom: 20px;" src="https://drive.google.com/uc?export=download&id=1c4HrpvUPbrwKYJkj_Eapki7pzSwX6AWD"/>
 </div>
+<br>
 
 # 📊 GitHub Stats:
 <p align="left">
   <img src="https://nirzak-streak-stats.vercel.app/?user=AreYouLucky&theme=dark&hide_border=false" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreYouLucky&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/>
 </p>
----
 
 ## 🏆 GitHub Trophies
 
