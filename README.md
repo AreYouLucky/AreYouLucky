@@ -26,7 +26,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=AreYouLucky&icon=2&color=1)](https://visitcount.itsvg.in)
 
-</br>
 
 ## Contact 
 <div> 
@@ -36,10 +35,6 @@
   <a href = "mailto: johnmichaelcagadas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </br>
 </br>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
  ---
 [![](https://visitcount.itsvg.in/api?id=AreYouLucky&icon=2&color=1)](https://visitcount.itsvg.in)
  
