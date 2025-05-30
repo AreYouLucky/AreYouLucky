@@ -5,11 +5,11 @@
 ---
 
 # 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=AreYouLucky&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AreYouLucky&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AreYouLucky&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AreYouLucky&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AreYouLucky&theme=dark&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreYouLucky&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/>
+</p>
 ---
 
 ## 🏆 GitHub Trophies
