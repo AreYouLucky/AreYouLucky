@@ -2,9 +2,6 @@
 <div style="display: inline_block">
  <img align="left" width="100%" style="margin-bottom: 20px;" src="https://drive.google.com/uc?export=download&id=1c4HrpvUPbrwKYJkj_Eapki7pzSwX6AWD"/>
 </div>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AreYouLucky&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
-</br>
 ---
 
 # 📊 GitHub Stats:
