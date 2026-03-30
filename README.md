@@ -57,7 +57,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AreYouLucky&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AreYouLucky&theme=tokyonight&hide_border=true"/>
 </p>
 
