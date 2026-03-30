@@ -58,9 +58,6 @@
 
 <p align="center">
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AreYouLucky&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
   <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreYouLucky&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
